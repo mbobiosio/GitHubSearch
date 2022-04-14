@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="location">Lagos, Nigeria</string>
+    <string name="followers">2.5K Followers</string>
+    <string name="following">31 Following</string>
+    <string name="star">12</string>
+    <string name="updated_at">Updated 15 hours ago</string>
+
+    <!-- Text -->
+    <string name="txt_retry_snackbar">RETRY</string>
+    <string name="txt_username">\@%s</string>
+    <string name="txt_followers">%s Followers</string>
+    <string name="txt_following">%s Following</string>
+    <string name="txt_updated_at">Updated %s</string>
+</resources>
