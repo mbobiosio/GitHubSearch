@@ -30,3 +30,8 @@ Note: You can also check the implementation Dagger 2 and RxJava in **dagger2-rxj
 ## 💎 Architecture
 This apps uses Clean Architecture to separate code into layers (Data - Domain - Presentation).
 ![app structure](./image/app-structure.png)
+
+## 💎 MAD Scorecard
+![summary](./image/summary.png)
+![summary](./image/jetpack.png)
+![summary](./image/kotlin.png)
